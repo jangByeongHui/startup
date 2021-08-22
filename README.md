@@ -4,4 +4,4 @@
 
 ThemeWagon에서 얻은 웹페이지 템플릿을 통해 다가구 및 숙박업소 소유주, 신혼부부를 위한 가전제품 공동구매 플랫폼 웹페이지 개발
 데모 영상
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=SY4w2kzhoew allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![네다음조 데모 영상](https://img.youtube.com/vi/SY4w2kzhoew/1.jpg)](https://www.youtube.com/watch?v=SY4w2kzhoew)
